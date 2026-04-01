@@ -1,0 +1,1 @@
+export default ({ ["styles"] : ({ ["global"] : ({ [":root"] : ({  }), ["body"] : ({ ["fontFamily"] : "'Syne', sans-serif", ["--default-font-family"] : "'Syne', sans-serif", ["backgroundColor"] : "#0a0a0f", ["margin"] : "0", ["padding"] : "0" }) }) }) })
