@@ -47,7 +47,7 @@ export const initialEvents = () => [
 ]
     
 
-export const isDevMode = true;
+export const isDevMode = false;
 
 export function UploadFilesProvider({ children }) {
   const [filesById, setFilesById] = useState({})
